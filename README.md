@@ -30,6 +30,9 @@ After gaining access to NutriQuest, you can start uploading food photos to track
 
 ## Demo
 
+### Add a meal
+### Analytics
+
 ## Acknowledgments
 
 - Thanks to OpenAI for providing the GPT-4 API, enabling advanced nutrition analysis.
